@@ -10,7 +10,7 @@
 
 **How to initialize/run your application (where applicable)**
 
-- python ./series.py
+- python ./madlib.py
 
 
 **How to use your library (where applicable)**
